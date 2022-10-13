@@ -109,6 +109,9 @@ p#button{
 p#button:hover {
   background-color: #c439ff;
 }
+section p{
+  font-style: italic;
+}
 
 
 /* div:nth-child(1),
